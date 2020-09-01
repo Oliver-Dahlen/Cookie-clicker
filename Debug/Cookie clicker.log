@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\olive\source\repos\Cookie clicker\Cookie clicker\main.cpp(14,44): warning C4305:  'argument': truncation from 'double' to 'T'
+C:\Users\olive\source\repos\Cookie clicker\Cookie clicker\main.cpp(14,44): warning C4305:         with
+C:\Users\olive\source\repos\Cookie clicker\Cookie clicker\main.cpp(14,44): warning C4305:         [
+C:\Users\olive\source\repos\Cookie clicker\Cookie clicker\main.cpp(14,44): warning C4305:             T=float
+C:\Users\olive\source\repos\Cookie clicker\Cookie clicker\main.cpp(14,44): warning C4305:         ]
+  Cookie clicker.vcxproj -> C:\Users\olive\source\repos\Cookie clicker\Debug\Cookie clicker.exe
